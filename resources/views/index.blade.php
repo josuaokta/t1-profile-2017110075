@@ -4,14 +4,13 @@
      <head>
         <title>Home</title>
 
-        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/style.css" />
      </head>
 
 
 <body>
     <div id="doc2" class="jos-t7">
         <div id="inner">
-
             <div id="hd">
                 <div class="jos-gc">
                     <div class="jos-u first">
@@ -87,6 +86,22 @@
                                     <li>Laravel</li>
                                     <li class="last">CSS</li>
                                 </ul>
+                            </div>
+                        </div>
+
+                        <div id="bd">
+                            <div id="jos-main">
+                                <div class="jos-b">
+
+                                    <div class="jos-gf">
+
+                                        <div class="jos-u first">
+                                            <a href="/portofolio">Go to Portofolio</a>
+                                        </div>
+                                    </div>
+
+
+                                </div>
                             </div>
                         </div>
 
