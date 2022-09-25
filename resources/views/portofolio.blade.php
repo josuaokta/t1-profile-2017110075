@@ -16,7 +16,7 @@
                 <div class="jos-gc">
                     <div class="jos-u first">
                         <h1>Josua Oktavianus S</h1>
-                        <h2>Local Staff</h2>
+                        <h2>Local Staff Warehouse</h2>
                     </div>
 
                     <div class="jos-u">
